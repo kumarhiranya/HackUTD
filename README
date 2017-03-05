@@ -1,0 +1,16 @@
+TEMPUS - A student’s personal advisor in day-to-day life.
+ Tempus means "TIME" and this project of ours serves the purpose of a personal asssistant for the people who cannot afford it(STUDENTS).
+
+ It makes suggestions(tells user from time to time what to do ) -- All it expects is the truth back(whether you really did it or not). So that it can plan / tell you what to do exactly in future.
+
+ This program as mentioned will act as an advisor for students - 
+
+ The tasks done in this project incluse
+
+ 1. Scrape course book to get class schedule.
+ 2.Scrape elearning to get the assignments.
+ 3. based on the deadlines - assign priorities to taks at hand.
+ 4.We used CLP-FD ( Constraint Logis programming in Finite Domains) to schedule the tasks using cumulative libraries.
+ 5.We store all the user data in AWS and retrive from it time to time
+ 6.Inorder to have complete understanding of its master the app collects lot of data at the start.
+ 7. In order to make the setup phase easy for the user, we pulled a lot of data(like birthdays or dear ones, events interested) from facebook.
